@@ -3,8 +3,8 @@
   display: grid;
 
   /* 2. كنحدد الأعمدة والصفوف */
-  grid-template-columns: 200px 1fr;   /* عمود صغير وعمود كبير */
-  grid-template-rows: 80px 1fr 60px;  /* صف فوق للheader، وسط للمحتوى، وتحت للfooter */
+  grid-template-columns: 400px 1fr;   /* عمود صغير وعمود كبير */
+  grid-template-rows: 100px 1fr 60px;  /* صف فوق للheader، وسط للمحتوى، وتحت للfooter */
 
   /* 3. كنستعمل grid areas باش ننظم */
   grid-template-areas:
